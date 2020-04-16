@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExemploListView</string>
+    <string name="titulo_main">Estados</string>
+    <string name="nome_do_estado">Nome do estado</string>
+    <string name="uf">UF</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome_do_pais">Nome do país</string>
+</resources>
